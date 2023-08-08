@@ -8,7 +8,19 @@ body
 {
     width: 150px;
 }
-
+.card1
+{
+    padding:20px;
+    display: flex;
+    color: #2b2839;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    border-bottom:5px solid #d8cefe;
+    background: #ddebf8;
+}
 .card
 {
     padding:20px;
